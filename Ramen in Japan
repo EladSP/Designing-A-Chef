@@ -1,15 +1,30 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Ramen in Japan</title>
+</head>
+<body>
 
+<main>
+    <h2>
+    Regional variations
+    </h2>
+        <p>
+        While standard versions of ramen are available throughout Japan since the Taisho era, the last few decades have shown a proliferation of regional variations. 
+        </p>
+</main>
+<section>       
+       <ul>
+          Some of these which have gone on to national prominence are:
+          <li><strong>Sapporo</strong>, the capital of Hokkaido, is especially famous for its ramen. Most people in Japan associate Sapporo with its rich miso ramen, which was invented there and which is ideal for Hokkaido's harsh, snowy winters. Sapporo miso ramen is typically topped with sweetcorn, butter, bean sprouts, finely chopped pork, and garlic, and sometimes local seafood such as scallop, squid, and crab. Hakodate, another city of Hokkaido, is famous for its salt flavored ramen, while Asahikawa in the north of the island offers a soy sauce-flavored variation.In Muroran, many ramen restaurants offer Muroran curry ramen.</li>
+          <li><strong>Kitakata</strong> in northern Honshu is known for its rather thick, flat, curly noodles served in a pork-and-niboshi broth. The area within its former city boundaries has the highest per-capita number of ramen establishments. Ramen has such prominence in the region that locally, the word soba usually refers to ramen, and not to actual soba which is referred to as nihon soba ("Japanese soba").</li>
+          <li><strong>Tokyo</strong> style ramen consists of slightly thin, curly noodles served in a soy-flavored chicken broth. The Tokyo style broth typically has a touch of dashi, as old ramen establishments in Tokyo often originate from soba eateries. Standard toppings are chopped scallion, menma, sliced pork, kamaboko, egg, nori, and spinach. Ikebukuro, Ogikubo and Ebisu are three areas in Tokyo known for their ramen.</li>
+          <li><strong>Yokohama</strong> ramen specialty is called Ie-kei. It consists of thick, straight-ish noodles served in a soy flavored pork broth similar to tonkotsu. The standard toppings are roasted pork (chāshū), boiled spinach, sheets of nori, often with shredded Welsh onion (negi) and a soft or hard boiled egg. It is traditional for customers to call the softness of the noodles, the richness of the broth and the amount of oil they want.</li>
+          <li><strong>Wakayama</strong> ramen in the Kansai region has a broth made from soy sauce and pork bones.</li>
+          <li><strong>Hakata</strong> ramen originates from Hakata district of Fukuoka city in Kyushu. It has a rich, milky, pork-bone tonkotsu broth and rather thin, non-curly and resilient noodles. Often, distinctive toppings such as crushed garlic, beni shōga (pickled ginger), sesame seeds, and spicy pickled mustard greens (karashi takana) are left on tables for customers to serve themselves. Ramen stalls in Hakata and Tenjin are well-known within Japan. Recent trends have made Hakata ramen one of the most popular types in Japan, and several chain restaurants specializing in Hakata ramen can be found all over the country.</li>
+        </ul>
+</section>
 
-<h2>
-Regional variations
-</h2>
-<ul>
-  <p>
-  While standard versions of ramen are available throughout Japan since the Taisho era, the last few decades have shown a proliferation of regional variations. Some of these which have gone on to national prominence are:
-  </p>
-    <li><strong>Sapporo</strong>, the capital of Hokkaido, is especially famous for its ramen. Most people in Japan associate Sapporo with its rich miso ramen, which was invented there and which is ideal for Hokkaido's harsh, snowy winters. Sapporo miso ramen is typically topped with sweetcorn, butter, bean sprouts, finely chopped pork, and garlic, and sometimes local seafood such as scallop, squid, and crab. Hakodate, another city of Hokkaido, is famous for its salt flavored ramen, while Asahikawa in the north of the island offers a soy sauce-flavored variation.In Muroran, many ramen restaurants offer Muroran curry ramen.</li>
-    <li><strong>Kitakata</strong> in northern Honshu is known for its rather thick, flat, curly noodles served in a pork-and-niboshi broth. The area within its former city boundaries has the highest per-capita number of ramen establishments. Ramen has such prominence in the region that locally, the word soba usually refers to ramen, and not to actual soba which is referred to as nihon soba ("Japanese soba").</li>
-    <li><strong>Tokyo</strong> style ramen consists of slightly thin, curly noodles served in a soy-flavored chicken broth. The Tokyo style broth typically has a touch of dashi, as old ramen establishments in Tokyo often originate from soba eateries. Standard toppings are chopped scallion, menma, sliced pork, kamaboko, egg, nori, and spinach. Ikebukuro, Ogikubo and Ebisu are three areas in Tokyo known for their ramen.</li>
-    <li><strong>Yokohama</strong> ramen specialty is called Ie-kei. It consists of thick, straight-ish noodles served in a soy flavored pork broth similar to tonkotsu. The standard toppings are roasted pork (chāshū), boiled spinach, sheets of nori, often with shredded Welsh onion (negi) and a soft or hard boiled egg. It is traditional for customers to call the softness of the noodles, the richness of the broth and the amount of oil they want.</li>
-    <li><strong>Wakayama</strong> ramen in the Kansai region has a broth made from soy sauce and pork bones.</li>
-    <li><strong>Hakata</strong> ramen originates from Hakata district of Fukuoka city in Kyushu. It has a rich, milky, pork-bone tonkotsu broth and rather thin, non-curly and resilient noodles. Often, distinctive toppings such as crushed garlic, beni shōga (pickled ginger), sesame seeds, and spicy pickled mustard greens (karashi takana) are left on tables for customers to serve themselves. Ramen stalls in Hakata and Tenjin are well-known within Japan. Recent trends have made Hakata ramen one of the most popular types in Japan, and several chain restaurants specializing in Hakata ramen can be found all over the country.</li>
+</body>
+</html>
