@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/
+	css/bootstrap.min.css">
+
+  	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400i,600|Roboto 
+	"rel="stylesheet">
+
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width">
+ 	<title>Ramen Variations in Japan</title>
+</head>
+
+<body>
+<style>
+	body	{
+		background-color: black;
+		color: red;
+		font-family: 'Roboto', sans-serif;
+		font-family: 'Open Sans', sans-serif;
+		text-decoration: none;
+		margin-left: 20px;
+		margin-right: 40px;
+		}
+		
+		a	{
+		text-decoration: none;
+		font-weight: 900;
+		color: white;
+		}
+
+	h3	{
+		color: white;
+		margin-top: 10px;
+		margin-bottom: 20px;
+		padding: 0px;
+		border-bottom: 1px solid white;
+		margin-bottom: 20px;
+		}
+	
+
+	p 	{
+		margin-top:0px;
+		margin-bottom: 15px;
+		font-size: 20px;
+		line-height:20px;
+	  	}
+
+	.type	{
+		margin-top: 0px;
+		line-height: 16px;
+		font-size: 16px;
+		font-style: normal;
+		margin-bottom: 10px;
+		}
+
+	.nav {
+		text-align: center;
+		margin: 0px;
+  		padding: 0px;
+  		list-style: none;
+		}
+
+	.nav li {
+  		padding: 5px;
+  		text-decoration: none;
+		}
+
+	.footer	{
+		font-size: 10px;
+		height: 0%;
+		width: 100%;
+		text-align: center;
+		color: white;
+	  	}
+
+			
+</style>
+	<hr>
+	<nav>  
+        <ul class="nav">
+		<li><a href= "Home.html">Home</a></i>
+		<li><a href= "History.html">History</a></li>
+		<li><a href= "Japan.html">Regional Variations</a></li>
+		<li><a href= "Types.html">Types of Ramen</a></li>
+		<li><a href="#"> Where to Eat</a></li>
+        </ul>
+	</nav>
+	</hr>	
+	
+	<main>	
+   	<h3>Regional variations</h3>
+
+        <p>
+        While standard versions of ramen are available throughout Japan since the Taisho era, the last few decades have shown a proliferation of regional variations. <strong>Some of these that have gone on to national prominence are:</strong>
+        </p>
+      
+       <ul>
+
+          <li class="type"> Sapporo, the capital of Hokkaido, is especially famous for its ramen. Most people in Japan associate Sapporo with its rich miso ramen, which was invented there and which is ideal for Hokkaido's harsh, snowy winters. Sapporo miso ramen is typically topped with sweetcorn, butter, bean sprouts, finely chopped pork, and garlic, and sometimes local seafood such as scallop, squid, and crab. Hakodate, another city of Hokkaido, is famous for its salt flavored ramen, while Asahikawa in the north of the island offers a soy sauce-flavored variation.In Muroran, many ramen restaurants offer Muroran curry ramen.</li>
+         
+	 <li class="type">Kitakata in northern Honshu is known for its rather thick, flat, curly noodles served in a pork-and-niboshi broth. The area within its former city boundaries has the highest per-capita number of ramen establishments. Ramen has such prominence in the region that locally, the word soba usually refers to ramen, and not to actual soba which is referred to as nihon soba ("Japanese soba").</li>
+          
+	<li class="type"> Tokyo style ramen consists of slightly thin, curly noodles served in a soy-flavored chicken broth. The Tokyo style broth typically has a touch of dashi, as old ramen establishments in Tokyo often originate from soba eateries. Standard toppings are chopped scallion, menma, sliced pork, kamaboko, egg, nori, and spinach. Ikebukuro, Ogikubo and Ebisu are three areas in Tokyo known for their ramen.</li>
+          
+	<li class="type">Yokohama ramen specialty is called Ie-kei. It consists of thick, straight-ish noodles served in a soy flavored pork broth similar to tonkotsu. The standard toppings are roasted pork (chāshū), boiled spinach, sheets of nori, often with shredded Welsh onion (negi) and a soft or hard boiled egg. It is traditional for customers to call the softness of the noodles, the richness of the broth and the amount of oil they want.</li>
+          <li class="type">Wakayama ramen in the Kansai region has a broth made from soy sauce and pork bon es.</li>
+         
+	 <li class="type">Hakata ramen originates from Hakata district of Fukuoka city in Kyushu. It has a rich, milky, pork-bone tonkotsu broth and rather thin, non-curly and resilient noodles. Often, distinctive toppings such as crushed garlic, beni shōga (pickled ginger), sesame seeds, and spicy pickled mustard greens (karashi takana) are left on tables for customers to serve themselves. Ramen stalls in Hakata and Tenjin are well-known within Japan. Recent trends have made Hakata ramen one of the most popular types in Japan, and several chain restaurants specializing in Hakata ramen can be found all over the country.</li>
+        </ul>
+</main>
+
+<div class="footer">
+The text content of this site was lovingly borrowed from <a href="https://en.wikipedia.org/wiki/Ramen"> the Wikipedia article on Ramen and other related articles</a> on <time datetime="2018-11-26"> 26 November 2018.
+<div class="footer"><a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"> Creative Commons Attribution-ShareAlike License,</a> licensing terms of content from other sources (photos, etc.) is noted along with each respective resource.
+</div>
+
+
+</body>
+
+</html>
+
+
+ 
